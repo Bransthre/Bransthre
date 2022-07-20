@@ -1,5 +1,5 @@
 ### 你好，歡迎蒞臨我的Github
-Or, in English, "Hello, welcome to my Github Page". This used to be a popular opening sentence of personal blogs/websites when I was studying at elementary, middle school in Taiwan, but after I went to Illinois for 3.5 years of high school, I don't see this sentence as often as I did.
+Or, in English, "Hello, welcome to my Github Page". This used to be a popular opening sentence of personal blogs/websites when I was studying at elementary, middle school in Taiwan, but after I went to Illinois for 3.5 years of high school, I don't see this sentence as often as I did. 
 Hello, I go by Brandon. I'm a Taiwanese international student born in Canada, currently studying Cognitive Science and Computer Science at UC Berkeley.
 
 #### I'm currently working on,
