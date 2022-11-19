@@ -1,6 +1,5 @@
 ### 你好，歡迎蒞臨我的Github
 ### Or, in English, "Hello, welcome to my Github Page".  
-This used to be a popular opening sentence of personal blogs/websites when I was studying at elementary, middle school in Taiwan, but after I went to Illinois for 3.5 years of high school, I don't see this sentence as often as I did.  
 Hello, I go by Brandon. I'm a Taiwanese international student born in Canada, currently studying Cognitive Science and Computer Science at UC Berkeley.
 
 ### I'm currently working on,
@@ -12,9 +11,8 @@ If you'd like to check out the technical details and small design ideas I tried 
 Working as an academic student employee, my current position is reader at an introductory course for informational device and system design, teaching fundamental linear algebra and applying it to circuitry knowledge. I read, grade, help at office hours for this course. Meanwhile, as a senior mentor in my school's club "Computer Science Mentors", design weekly worksheets and educational content to aid students on exploring the field of EECS.
 
 #### Contacting me:
-Email: {} \ {}
-LinkedIn: {}
-Medium: {}
+Email: dunmingbrandonhuang@berkeley.edu
+Medium: https://medium.com/@bransthre
 
 <!--
 **Bransthre/Bransthre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
