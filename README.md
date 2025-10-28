@@ -1,8 +1,7 @@
 ### 你好，歡迎蒞臨我的Github
 ### Or, in English, "Hello, welcome to my Github Page".  
 Hello, I go by Brandon. I'm a Taiwanese international student born in Canada, currently studying Cognitive Science and Computer Science at UC Berkeley.
-
-### Public information of myself are now at bransthre.github.io
+There is nothing remarkable to say here.
 
 <!--
 **Bransthre/Bransthre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
